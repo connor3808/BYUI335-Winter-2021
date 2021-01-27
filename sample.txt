@@ -2,4 +2,5 @@ Yes! You did it.
 
 I'm changing this. 
 
-Local. 
+<<<<<<< HEAD
+Local.
